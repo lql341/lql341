@@ -1,4 +1,4 @@
-# Hi, I'm Luql 👋
+# Hi, I'm Dr.Marshall 👋
 
 Research software, HPC tooling, scientific computing, and developer tools.
 
