@@ -1,3 +1,5 @@
+**English** | [简体中文](https://github.com/lql341/lql341/blob/master/README.zh-CN.md)
+
 # Hi, I'm Dr. Marshall 👋
 
 I build tools for HPC and scientific computing, connecting AI agents with real cluster workflows.
